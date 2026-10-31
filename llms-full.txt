@@ -1,0 +1,889 @@
+# Escape Room a Casa Tua
+
+> Gioca o sfida i tuoi amici ad emozionanti ESCAPE ROOM ONLINE, anche con attori, ognuno connesso da casa sua! Escape room online in italiano giocabili da PC, tablet o smartphone, da soli o in gruppo (anche a distanza, ognuno da casa propria). Brand di NO EXIT ENTERPRISE SRLS (No Exit), attiva dal 2015.
+
+- Lingua: italiano (team building anche in inglese e tedesco)
+- Prezzo minimo: €9,99 a codice (1 codice = 1 dispositivo). Pagamento con carta di credito o PayPal.
+- Età: dagli 8 anni. Durata: da 60 a 120 minuti.
+- Prenotazione: ogni pagina esperienza contiene il modulo di prenotazione (sezione "Prenota l’esperienza", ancora #prenota).
+- Contatti: info@escaperoomacasatua.it · WhatsApp +39 351 991 9229
+
+## Pagine principali
+
+- [Home](https://escaperoomacasatua.it/): Home: cosa sono le escape room online e tutte le esperienze
+- [esperienze](https://escaperoomacasatua.it/esperienze/): Catalogo completo con tabella di confronto (genere, difficoltà, durata, gruppo, prezzo)
+- [come-funziona](https://escaperoomacasatua.it/come-funziona/): Come si gioca (Escape Challenge, con attori, cena con delitto) e FAQ
+- [regala-escape-room-online](https://escaperoomacasatua.it/regala-escape-room-online/): Carte regalo elettroniche (acquisto online)
+- [feste](https://escaperoomacasatua.it/feste/): Feste di compleanno, lauree, addii al celibato/nubilato, feste per bambini; pacchetti PARTY
+- [per-aziende](https://escaperoomacasatua.it/per-aziende/): Team building ed eventi aziendali online, dal vivo e ibridi
+- [contatti](https://escaperoomacasatua.it/contatti/): Email, WhatsApp, social, modulo contatti e storia dell’azienda
+- [blog](https://escaperoomacasatua.it/blog/): Articoli sul mondo delle escape room
+
+## Esperienze
+
+- [Hacker Hunt](https://escaperoomacasatua.it/challenge/hacker-hunt/): Escape Challenge · Genere: Cyber Crime · Difficoltà: 4/5 · Durata: 60 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/hacker/?hide=true
+- [Back to the 80’s](https://escaperoomacasatua.it/challenge/back-to-the-80s/): Escape Challenge · Genere: Cult-Comico · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/back/?hide=true
+- [Clue](https://escaperoomacasatua.it/challenge/clue/): Escape Challenge · Genere: Investigativo · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/clue/?hide=true
+- [Scuola di Maghi](https://escaperoomacasatua.it/challenge/scuola-di-maghi/): Escape Challenge · Genere: Fantasy · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/maghi/?hide=true
+- [Helping Santa! Aiutiamo Babbo Natale](https://escaperoomacasatua.it/challenge/helping-santa-aiutiamo-babbo-natale/): Escape Challenge · Genere: Per Famiglie · Difficoltà: 3/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/babbonatale/?hide=true
+- [Chi ha incastrato Mr. Simon](https://escaperoomacasatua.it/challenge/chi-ha-incastrato-mr-simon/): Escape Challenge · Genere: Giallo · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/simon/?hide=true
+- [Scuola di Maghi | Kids](https://escaperoomacasatua.it/challenge/scuola-di-maghi-kids/): Escape Challenge · Genere: Fantasy-Famiglie · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/maghi-kids/?hide=true
+- [La Casa Stregata](https://escaperoomacasatua.it/challenge/stregata/): Escape Challenge · Genere: Thriller-Horror · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/stregata/?hide=true
+- [La Casa di Carta Igienica](https://escaperoomacasatua.it/challenge/la-casa-di-carta-igienica/): Escape Challenge · Genere: Azione-Comico · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/igienica/?hide=true
+- [Nella Tana del Bianconiglio](https://escaperoomacasatua.it/challenge/nella-tana-del-bianconiglio/): Escape Challenge · Genere: Fantasy-Famiglie · Difficoltà: 3/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/alice/?hide=true
+- [SAW](https://escaperoomacasatua.it/challenge/saw/): Escape Challenge · Genere: Horror · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €14,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/saw/?hide=true
+- [Quella Casa nel Bosco](https://escaperoomacasatua.it/challenge/quella-casa-nel-bosco/): Escape Challenge · Genere: Thriller-Horror · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/bosco/?hide=true
+- [Il Grande Party di Gatsby](https://escaperoomacasatua.it/challenge/il-grande-party-di-gatsby/): Escape Challenge · Genere: Investigativo · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/gatsby/?hide=true
+- [La Notte dell’Enigmista](https://escaperoomacasatua.it/challenge/la-notte-dell-enigmista/): Escape Challenge · Genere: Thriller-Fantasy · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/notte/?hide=true
+- [Undici Ore – Mistero sulla ISS](https://escaperoomacasatua.it/challenge/undici-ore-il-mistero-della-iss/): Escape Challenge · Genere: Sci-Fi · Difficoltà: 4/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/undici-ore/?hide=true
+- [Il Codice di Leonardo](https://escaperoomacasatua.it/challenge/il-codice-di-leonardo/): Escape Challenge · Genere: Storico · Difficoltà: 3/5 · Durata: 60 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet. Prenota: https://hunt.escaperoomacasatua.it/booking/codice-di-leonardo/?hide=true
+
+## Blog
+
+- [Escape room a Roma da non perdere](https://escaperoomacasatua.it/2022/04/21/escape-room-roma/): La capitale non è solo storia e monumenti. Guarda le ESCAPE ROOM di Roma, che non puoi assolutamente lasciarti sfuggire!
+- [Escape room Milano: 3 esperienze top](https://escaperoomacasatua.it/2022/04/14/escape-room-milano/): Vieni a trovarci nella nostra sede e prova le top 3 ESCAPE ROOM A MILANO! Forza, che cosa stai aspettando?
+- [Escape room: tra finzione e realtà](https://escaperoomacasatua.it/2022/04/03/escape-room/): Gioca con i tuoi amici ad emozionanti ESCAPE ROOM, vere e proprie esperienze con le quale ti sembrerà di vivere un film in prima persona!
+- [Escape room online: perché sceglierle](https://escaperoomacasatua.it/2022/04/03/escape-room-online/): Divertirsi a casa è possibile? Prova le nostre ESCAPE ROOM ONLINE, anche con attori, per vivere un'esperienza unica stando seduto sul divano!
+- [Team building per aziende, una vera risorsa](https://escaperoomacasatua.it/2022/04/03/team-building/): Scopri le nostre proposte ed esperienze per organizzare l'evento di TEAM BUILDING aziendale più adatto alle tue esigenze.
+
+## Optional
+
+- [Testo completo per LLM](https://escaperoomacasatua.it/llms-full.txt): esperienze, FAQ e articoli in un unico file
+- [Catalogo JSON](https://escaperoomacasatua.it/esperienze.json): dati strutturati di tutte le esperienze
+- [Sitemap](https://escaperoomacasatua.it/sitemap-index.xml)
+- Sito team building aziendale: https://noexit-teambuilding.it
+
+
+---
+
+# Prezzi Escape Challenge (pacchetti)
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+
+Alcune esperienze hanno un prezzo diverso: vedi la scheda di ciascuna.
+
+
+# FAQ
+
+## Cos’è ESCAPE ROOM A CASA TUA?
+
+ESCAPE ROOM A CASA TUA è la versione virtuale e online delle escape room, gioco di fuga dal vivo in cui i concorrenti sono rinchiusi all’interno di una stanza e devono risolvere enigmi e rompicapi per poter uscire. La nostra versione digitale è strutturata per suscitare emozioni e divertimento rimanendo comodamente a casa propria.
+
+ESCAPE ROOM A CASA TUA offre esperienze completamente virtuali o arricchite dalla performance di attori. È un gioco che può essere fatto sia da soli che in gruppo.
+
+## Come funziona?
+
+Essendo un gioco virtuale, si svolge completamente online. Guidati dalla trama e dal tema, i giocatori devono risolvere enigmi, indovinelli e giochi di logica per portare a termine l’esperienza di gioco entro il tempo massimo.
+
+Se si sceglie di giocare in più persone, è possibile farlo sia riuniti in un unico ambiente, sia a distanza gli uni dagli altri. In questo secondo caso i giocatori dovranno tenersi in contatto attraverso un canale di comunicazione autonomamente scelto (es. WhatsApp, Zoom, Skype, ecc…). Ogni giocatore ha un (1) suo codice di accesso, che corrisponde a un (1) proprio dispositivo elettronico a scelta tra PC, tablet e smartphone (non forniti da noi).
+
+Una volta scelta l’esperienza desiderata tra quelle proposte (con o senza la partecipazione di attori), è necessario compilare il modulo di iscrizione con i dati dei giocatori, effettuare il pagamento e scegliere giorno e orario per giocare.
+
+## Cosa mi serve per giocare?
+
+È necessario che ciascun giocatore sia munito di PC, tablet o smartphone e abbia accesso a una connessione internet.
+
+Solo per alcune esperienze potrebbe poi essere richiesto che tu abbia installato una applicazione come WhatsApp o Zoom per comunicare con gli altri giocatori o con gli attori.
+
+## In quanti si può giocare?
+
+Ogni esperienza prevede un numero minimo e un numero massimo di partecipanti riportato nella sua scheda di descrizione. Per gruppi numerosi (oltre 15 giocatori) o team building aziendali scrivi a: info@escaperoomacasatua.it.
+
+## È necessario essere tutti nello stesso luogo?
+
+No, non è necessario. Con ESCAPE ROOM A CASA TUA puoi giocare con i tuoi amici anche a distanza. Ognuno da casa propria oppure ovunque vogliate, basterà essere dotati di un dispositivo elettronico a scelta tra PC, tablet o smartphone, di una connessione internet e di un canale di comunicazione a vostra scelta (es. WhatsApp, Zoom,…) da utilizzare tra di voi.
+
+## C’è un’età minima per partecipare?
+
+Le nostre esperienze sono adatte a tutti a partire dagli 8 anni.
+
+## Quanto tempo dura un’esperienza?
+
+Ogni esperienza ha una durata differente che è riportata nella sua scheda di descrizione; in generale, hanno una durata che può variare tra una e due ore.
+
+## Quanto costa e come si paga?
+
+Ogni esperienza prevede un costo differente che è indicato nella sua scheda di descrizione. Il prezzo minimo è di €9,99.
+
+Il pagamento può essere effettuato tramite Carta di Credito o via PayPal. Non è possibile pagare con bonifico bancario o in contanti.
+
+## Si può pagare separatamente?
+
+Dipende dal tipo di esperienza che scegliete.
+
+Se siete un gruppo che vuole giocare a una esperienza online senza attori, allora ciascun giocatore deve acquistare in autonomia un (1) codice di gioco. Al momento della prenotazione, tutti i giocatori devono fare attenzione a selezionare lo stesso giorno e ora di attivazione.
+
+Se invece volete una esperienza online con attori, è necessario fare un pagamento unico specificando il numero di giocatori. Sarà nostra cura fornirvi la quantità di codici di gioco necessari per tutti i partecipanti.
+
+## Come si prenota?
+
+Dopo aver effettuato il pagamento, si possono selezionare data e ora in cui si vuole giocare. Si accede alla prenotazione dalla scheda di descrizione dell’esperienza che si vuole acquistare.
+
+## Posso modificare o cancellare la prenotazione?
+
+Una volta completata la prenotazione non è possibile cancellarla, ci dispiace. Quello che puoi fare è aggiungere altri giocatori. Per farlo scrivi a info@escaperoomacasatua.it appena possibile per richiedere la variazione. Ogni giocatore aggiunto dovrà versare la sua quota di partecipazione per accedere all’esperienza.
+
+## Posso fare un regalo a qualcuno?
+
+Sì, puoi! Consulta la pagina Regala e segui le istruzioni.
+
+## È possibile organizzare team building aziendali?
+
+Sì, è possibile. Consulta la pagina Per Aziende per scoprire tutte le attività dedicate alle aziende.
+
+## Hai provato ESCAPE ROOM A CASA TUA e vorresti guadagnare collaborando con noi?
+
+Per collaborazioni o franchising scrivi a info@escaperoomacasatua.it e raccontaci cos’hai in mente!
+
+
+# Esperienze (schede complete)
+
+## Hacker Hunt
+
+URL: https://escaperoomacasatua.it/challenge/hacker-hunt/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/hacker/?hide=true
+Escape Challenge · Genere: Cyber Crime · Difficoltà: 4/5 · Durata: 60 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Sono mesi che la Polizia Informatica è alla ricerca senza successo
+di un hacker internazionale che parrebbe non lasciare tracce…
+Ora, però, è il tuo turno di “giocare” con lui!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Back to the 80’s
+
+URL: https://escaperoomacasatua.it/challenge/back-to-the-80s/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/back/?hide=true
+Escape Challenge · Genere: Cult-Comico · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Un tuffo tra i FILM CULT degli anni ’80, dedicato a chi li ha visti e amati,
+ma anche per chi ancora non li conosce!
+May the Force be with you!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Clue
+
+URL: https://escaperoomacasatua.it/challenge/clue/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/clue/?hide=true
+Escape Challenge · Genere: Investigativo · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Detective Marlowe, avete sentito quella voce di donna che singhiozzava e
+parlava di un delitto, di un’arma e di un cadavere?
+Credo proprio che voi siate la persona più adatta per indagare…
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Scuola di Maghi
+
+URL: https://escaperoomacasatua.it/challenge/scuola-di-maghi/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/maghi/?hide=true
+Escape Challenge · Genere: Fantasy · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Tutto ebbe inizio con l’arrivo di una civetta e 
+della lettera che stava portando l’invito alla famosa scuola magica!
+
+Sarai all’altezza di questo compito e riuscirai a diventare un vero Mago?
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Helping Santa! Aiutiamo Babbo Natale
+
+URL: https://escaperoomacasatua.it/challenge/helping-santa-aiutiamo-babbo-natale/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/babbonatale/?hide=true
+Escape Challenge · Genere: Per Famiglie · Difficoltà: 3/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Babbo Natale e la Befana si stanno preparando per queste feste nella loro casetta, su al Polo Nord!
+Dai loro una mano, altrimenti quest’anno molti bambini potrebbero restare senza regali!
+
+### Come funziona
+
+È una sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Chi ha incastrato Mr. Simon
+
+URL: https://escaperoomacasatua.it/challenge/chi-ha-incastrato-mr-simon/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/simon/?hide=true
+Escape Challenge · Genere: Giallo · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+L’Agente Stella ha ricevuto un avviso da Mr. Simon riguardo a un imminente pericolo.
+Si è subito diretta a casa di Mr. Simon in Viale Misterioso, ma lui non c’è
+e lei ora chiede il nostro aiuto!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Scuola di Maghi | Kids
+
+URL: https://escaperoomacasatua.it/challenge/scuola-di-maghi-kids/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/maghi-kids/?hide=true
+Escape Challenge · Genere: Fantasy-Famiglie · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Tutto ebbe inizio con l’arrivo di una civetta e 
+della lettera che stava portando: l’invito alla famosa scuola magica!
+
+Sarai all’altezza di questo compito e riuscirai a diventare un vero Mago?
+
+### Come funziona
+
+Versione per famiglie, bambini e ragazzi di Scuola di Maghi! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## La Casa Stregata
+
+URL: https://escaperoomacasatua.it/challenge/stregata/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/stregata/?hide=true
+Escape Challenge · Genere: Thriller-Horror · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Ti sei appena trasferito in città e sei così felice di aver già trovato casa!
+“Quella casa ha un passato inquietante!”, si dice in giro…
+ma tu non hai paura di sfatare questo mito, vero?
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## La Casa di Carta Igienica
+
+URL: https://escaperoomacasatua.it/challenge/la-casa-di-carta-igienica/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/igienica/?hide=true
+Escape Challenge · Genere: Azione-Comico · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Il Professore ti ha chiamato per un colpo a dir poco inusuale… L’obiettivo?
+La Casa di carta Igienica, l’edificio che conserva le ultime riserve di preziosi rotoli
+di morbidissima 3 veli che da mesi non trovi più da nessuna parte!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Nella Tana del Bianconiglio
+
+URL: https://escaperoomacasatua.it/challenge/nella-tana-del-bianconiglio/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/alice/?hide=true
+Escape Challenge · Genere: Fantasy-Famiglie · Difficoltà: 3/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+L’invito alla festa di Tom è una bella occasione per fare nuove amicizie… forse più strane di quello che potevi aspettarti!
+
+### Come funziona
+
+È una sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## SAW
+
+URL: https://escaperoomacasatua.it/challenge/saw/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/saw/?hide=true
+Escape Challenge · Genere: Horror · Difficoltà: 4/5 · Durata: 90-120 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €14,99 a codice · Serve: Dispositivo connesso a internet
+
+Uno psicopatico che sceglie le sue vittime in base ad una serie di enigmi.
+Chi saprà risolverli si salverà, chi non ci riuscirà potrebbe essere la sua prossima vittima.
+Ogni errore è un passo in più verso la morte.
+Sei pronto a rischiare? Il tempo gioca a suo favore…
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- €14,99 a codice (1 codice = 1 dispositivo)
+
+## Quella Casa nel Bosco
+
+URL: https://escaperoomacasatua.it/challenge/quella-casa-nel-bosco/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/bosco/?hide=true
+Escape Challenge · Genere: Thriller-Horror · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Tu e i tuoi amici non vedevate l’ora che arrivasse questo fine settimana!
+Obscurewood è la vostra destinazione: un luogo tranquillo e di pace… forse eterna…
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Il Grande Party di Gatsby
+
+URL: https://escaperoomacasatua.it/challenge/il-grande-party-di-gatsby/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/gatsby/?hide=true
+Escape Challenge · Genere: Investigativo · Difficoltà: 3/5 · Durata: 60-90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Alla tenuta del Signor Gatsby, durante una delle sue sfarzose feste, è accaduto un crimine.
+Ora vi invita a partecipare alla prossima…
+Detective Marlowe, non perdete questa occasione per far luce sull’accaduto!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## La Notte dell’Enigmista
+
+URL: https://escaperoomacasatua.it/challenge/la-notte-dell-enigmista/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/notte/?hide=true
+Escape Challenge · Genere: Thriller-Fantasy · Difficoltà: 4/5 · Durata: 90 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Un terribile omicidio sta riempiendo le prime pagine dei giornali della City e
+l’Uomo Pipistrello non risponde al segnale… È il tuo momento, entra in azione!
+
+### Come funziona
+
+È un’adrenalinica sfida contro il tempo ricchissima di dettagli! Ti troverai ad affrontare percorsi, enigmi e quiz tipici delle Escape Room, ma calati in una trama avvincente che si sviluppa passo dopo passo!
+
+- Se i giocatori si trovano nello stesso luogo: basta connettersi a internet ognuno dal proprio PC, tablet o smartphone.
+- Se i giocatori si trovano in luoghi diversi: ognuno si connette a internet dal proprio PC, tablet o smartphone. Poi, organizzate una videochiamata (Zoom/Skype/Teams/Google Meet/…) per comunicare tra di voi e rendere l’esperienza più coinvolgente.
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Undici Ore – Mistero sulla ISS
+
+URL: https://escaperoomacasatua.it/challenge/undici-ore-il-mistero-della-iss/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/undici-ore/?hide=true
+Escape Challenge · Genere: Sci-Fi · Difficoltà: 4/5 · Durata: 60-75 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Un mistero da risolvere a bordo della Stazione Spaziale Internazionale.
+
+### Come funziona
+
+E’ una ESCAPE ONLINE realizzata con molta attenzione ai dettagli! Ti troverai ad affrontare percorsi di enigmi e quiz tipici delle Escape Room, all’interno di una coinvolgente trama che si sviluppa passo dopo passo!
+
+- Se tu e i tuoi amici sarete nello stesso luogo, vi basterà connettervi ad internet con PC, tablet o cell.
+- Se invece sarete a distanza, video chiamatevi con Meet, Zoom, Whatsapp o altro per vivere una migliore esperienza assieme!
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+## Il Codice di Leonardo
+
+URL: https://escaperoomacasatua.it/challenge/il-codice-di-leonardo/
+Prenotazione: https://hunt.escaperoomacasatua.it/booking/codice-di-leonardo/?hide=true
+Escape Challenge · Genere: Storico · Difficoltà: 3/5 · Durata: 60 minuti · Gruppo: da 1 a 30 persone · Escape senza attori · Prezzo: €9,99 a codice · Serve: Dispositivo connesso a internet
+
+Un’escape room online a tema storico, realizzata con molta attenzione ai dettagli.
+
+### Come funziona
+
+E’ una ESCAPE ONLINE realizzata con molta attenzione ai dettagli! Ti troverai ad affrontare percorsi di enigmi e quiz tipici delle Escape Room, all’interno di una coinvolgente trama che si sviluppa passo dopo passo!
+
+- Se tu e i tuoi amici sarete nello stesso luogo, vi basterà connettervi ad internet con PC, tablet o cell.
+- Se invece sarete a distanza, video chiamatevi con Meet, Zoom, Whatsapp o altro per vivere una migliore esperienza assieme!
+
+### Altre informazioni
+
+I codici ti saranno inviati via email subito dopo aver concluso l’acquisto e verranno da noi attivati il giorno e all’ora da te scelti per giocare.
+
+I codici dovranno essere utilizzati entro 3 ore dalla data e orario di gioco da te scelti; in caso contrario, i codici non saranno più attivi e bisognerà acquistarne di nuovi. Ricordiamo inoltre che ogni codice è utilizzabile su un solo dispositivo.
+
+**Consigli di gioco per un’esperienza più coinvolgente quando ci sono tanti giocatori:**
+
+- Se siete un gruppo numeroso di partecipanti che si trovano nello stesso luogo, dividetevi in gruppetti di max 3 persone per dispositivo.
+- Per aumentare il livello di sfida, scegliete se far collaborare i gruppetti per la risoluzione degli enigmi oppure se farli gareggiare a chi finisce per primo!
+
+### Prezzi
+
+- Base: €9,99 a codice (1 codice = 1 dispositivo)
+
+- Pacchetto PARTY SMALL: €39,99 per 5 codici
+- Pacchetto PARTY MEDIUM: €59,99 per 10 codici
+- Pacchetto PARTY BIG: €79,99 per 15 codici
+- Pacchetto PARTY XXL: €99,99 per 20 codici
+- Oltre 21 codici: [scrivici](/contatti/)
+
+
+# Articoli del blog
+
+## Escape room a Roma da non perdere
+
+URL: https://escaperoomacasatua.it/2022/04/21/escape-room-roma/
+Data: 2022-04-21
+
+Dalle trame per deporre un imperatore agli scandali in Vaticano. Dai segreti custoditi dalle famiglie aristocratiche alle chiacchiere da palazzo. Da sempre la capitale è sede di intrighi, accordi e giuramenti. Ecco perchè non puoi assolutamente lasciarti sfuggire l’opportunità di scoprire le migliori escape room a Roma!
+
+### La Casa del Male
+
+Già il nome la dice lunga. Si tratta di [una villa](https://www.lacasadelmale.it/) in cui si concentrano diverse proposte fra loro collegate.
+
+Lo stile è quello della Live Thriller Experience: un mix di escape room e di film thriller in prima persona. Il risultato? Un’esperienza totalizzante e ricca di forti emozioni! La presenza di strani personaggi che animano l’avventura e l’utilizzo di appositi scenari rende il tutto ancor più coinvolgente. Non ci credi? Ne vuoi un assaggio? Leggi qui.
+
+
+### 1. Le sorelle
+
+Insieme ai tuoi amici vieni colto di sorpresa da un fortissimo temporale. Davanti ai tuoi occhi il profilo di [una casa forse disabitata](https://www.lacasadelmale.it/rooms/le-sorelle/). Ti sembra una buona idea quella di entrare per cercare riparo…
+
+Non appena varchi la soglia capisci che qualcosa non va. Tu e i tuoi amici restate coinvolti in quello che sperate essere solo un sogno che ha, sullo sfondo, una vera tragedia familiare. Ne uscirete vivi?
+
+### 2. Il padrone
+
+Se sei uscito vivo dalla stanza precedente potresti pensare di aver fatto semplicemente un brutto sogno. In realtà non ti sei mai allontanato veramente da quella casa. [L’incubo è appena iniziato](https://www.lacasadelmale.it/rooms/padrone/) e potrebbe riservare, a te e ai tuoi amici, sorprese davvero molto, molto spiacevoli. Pensi di essere pronto?
+
+
+### Escape room a Roma: la nostra proposta
+
+Come avrai notato non si tratta della più classica “fuga dalla stanza”. L’esperienza che proponiamo va molto oltre. Azione, thrilling e suspance sono solo alcuni degli ingredienti che usiamo. Questi, uniti alle dinamiche con i personaggi e al tuo desiderio di lasciarti coinvolgere, possono fare davvero la differenza. Ecco cosa caratterizza la nostra proposta.
+
+La Casa del Male non è una delle tante escape room a Roma. E’ un vero e proprio film in prima persona. Sei pronto a diventare il protagonista? Ti aspettiamo in Via Appia Nuova 1305.
+
+E ricorda che se non vuoi uscire di casa, abbiamo comunque [qualcosa che fa per te](/)!
+
+## Escape room Milano: 3 esperienze top
+
+URL: https://escaperoomacasatua.it/2022/04/14/escape-room-milano/
+Data: 2022-04-14
+
+Vivi nel capoluogo lombardo? Ti piace divertirti? Allora almeno una volta avrai cercato “Escape room Milano” su Google.
+
+Beh, eccoti qui. Stai per fare un viaggio nella nostra sede milanese. Per ora è solo metaforico, ma noi ti aspettiamo di persona. Non sei curioso di scoprire cosa abbiamo in serbo per te?
+
+### 1. Casa Psyco – Disturbia
+
+Il professor Eugene Blackwood sarà lieto di accoglierti nel suo studio. Oltre a te, potranno accompagnarti altre cinque persone. Il dottore non ha mai rifiutato delle sedute di gruppo.
+
+Avrai la possibilità di scoprire qualcosa in più sul suo conto, ma non solo. Ti sarà data la possibilità, in un modo o nell’altro, di confrontarti anche con la piccola Emily, sua figlia.
+
+Trascorrere un’ora nello [studio del professor Blackwood](https://booking.escapersmilano.it/rooms/disturbia/) è un’esperienza che scava a fondo nella psiche, portando a galla verità a volte scomode, ma profondamente reali.
+
+
+### 2. Fuga dalla prigione
+
+Sai già come ci si sente quando sembra di non avere alcuna via d’uscita? Tentare la [fuga dalla prigione](https://booking.escapersmilano.it/rooms/prigione/) potrebbe essere un buon modo per scoprirlo. Anche se non è detto che si tratti di una vera e propria prigione. E nemmeno che non ci siano vie di fuga.
+
+La zona detentiva dell’Istituto Psyco può contenere fino a dieci persone. Cerca di confrontarti con i suoi sistemi di sicurezza – e con le guardie – e scopri cosa prova un vero recluso. Ti accorgerai che non sempre tutto è come sembra. A volte, dietro strane apparenze, si cela la salvezza.
+
+### 3. La casa stregata
+
+La chiamano tutti così. In realtà è semplicemente un’abitazione abbandonata in cui tu e altri cinque amici potete trovare riparo. Qualche scricchiolio e qualche ruomore di troppo, però, potrebbero farti sorgere il dubbio che ci sia davvero una strana presenza.
+
+Prova a scoprire i segreti che [la casa](https://booking.escapersmilano.it/rooms/casa-stregata/) custodisce e riuscirai a fare chiarezza su molte cose. Forse la vicinanza della casa all’Istituto Psyco non è così casuale…
+
+
+### Escape room Milano – Vieni a trovarci
+
+Adesso che hai scoperto quali sono tre delle esperienze che proponiamo puoi venire a farci visita per davvero! Ti aspettiamo in Via Francesco Nava 17. L’[Istituto Psyco](https://www.escapersmilano.it/) ha le porte spalancate per accoglierti. Ora non hai più bisogno di cercare “Escape room Milano” su Google: sai già dove andare.
+
+Se le nostre proposte in presenza non dovessero bastarti, abbiamo anche delle [esperienze](/) che puoi vivere comodamente seduto sul divano di casa!
+
+## Escape room: tra finzione e realtà
+
+URL: https://escaperoomacasatua.it/2022/04/03/escape-room/
+Data: 2022-04-03
+
+Chi non ha mai desiderato un’esperienza *da film*? Tutti noi abbiamo sognato, almeno una volta, di superare quel sottile confine che divide finzione e realà. Bene, entrando in una delle nostre escape room tutto questo sarà possibile.
+
+### Un film in prima persona
+
+Per prima cosa dobbiamo dire che di questo, in fondo, si tratta. In altre parole, viviere un’esperienza come quelle che potete trovare nelle nostre sedi è stimolante tanto quanto trovarsi ad essere protagonisti di un film. Hype, sfide, thrilling. Sono queste le parole chiave delle nostre proposte. Ovviamente, senza perdere di vista la narrazione. In conclusione, ogni escape room non è una semplice *fuga dalla stanza*. Ciò che vi proponiamo è di prendere parte ad una storia a tutto tondo, capace di coinvolgere ciascuno di voi in prima persona.
+
+### Mai da soli
+
+Poichè non esiste storia che sia vissuta da un solo personaggio, ogni esperienza è stata pensata e creata per poter essere condivisa con alter persone. Il vostro gruppo di amici, ad esempio. In questo modo aumenta di molto il divertimento.
+
+Ma non è tutto! Infatti, se lo vorrete – e da parte nostra ve lo consigliamo senza alcun dubbio – avrete la possibilità di interagire con i personaggi della storia che vi troverete a vivere. Così potrete entrare totalmente nella vicenda e superare il confine che di solito divide finzione e realtà.
+
+
+### Escape room: divertimento al primo posto
+
+In ogni escape room ci sono sfide di logica, indovinelli e prove. Un lucchetto da sbloccare, per esempio, o una porta da aprire. Per questo motivo alcuni pensano si tratti di un test di intelligenza. Lo scopo, però, non è mai mettere alla prova chi decide di entrare nelle nostre stanze. L’biettivo primario è il divertimento del giocatore. Di conseguenza, tutto ciò che ti proporremo sarà finalizzato a quello. Trova un gruppo di persone, proponi loro un’avventura e noi organizzeremo l’esperienza perfetta per farvi divertire.
+
+
+Non ci credi? Vieni a trovarci di persona a [Milano](https://www.escapersmilano.it/), [Roma](https://www.lacasadelmale.it/) e [Udine](https://www.noexitroom.com/)!
+
+Attenzione. Se non vuoi muoverti di casa, potrebbe esserci comunque [qualcosa che fa per te](/).
+
+## Escape room online: perché sceglierle
+
+URL: https://escaperoomacasatua.it/2022/04/03/escape-room-online/
+Data: 2022-04-03
+
+Capita di aver voglia di divertirsi senza dover uscire di casa. In questi casi, di solito, ci si dedica ai giochi da tavolo, ad esempio. Ma ci sono valide alternative. Quali? Beh, le nostre [escape room online!](/)
+
+### Motivi per sceglierle
+
+Innanzitutto la [versatilità](/come-funziona/). Un’esperienza digitale può essere vissuta in qualsiasi momento e luogo. Sarà sufficiente un pc – o uno smartphone o tablet – per poter iniziare l’avventura scelta. Inoltre, le escape room online offrono la possibilità di essere condivise con gli amici. E non è affatto necessario che siate tutti nello stesso luogo! Altrimenti che vantaggio sarebbe… Infine, il divertimento. Come tutti i giochi, certo. Ma in questo caso, si tratta di qualcosa di diverso dal solito. Differenti tipi di sfide si intrecciano intorno ad un un’unica storia, amplificando così la sensazione di essere parte di una vera avventura.
+
+### L’interazione non manca
+
+“Virtuale” è spesso sinonimo di “freddo”. In realtà, tra le escape room online che vi proponiamo ce ne sono alcune che prevedono l’[interazione con un attore](/#escape-con-attori), di conseguenza le relazioni umane non scompaiono. Chiariamo subito: nessuno suonerà il campanello di casa tua chiedendo di farlo entrare (forse). Però una telefonata potrebbe arrivare, per esempio… Scopri subito quali esperienze fanno al caso tuo. E se sei un grande fan delle avventure ad alto tasso di adrenalina, beh, non puoi rinunciare alla possibilità di avere a che fare con i protagonisti delle nostre storie!
+
+
+### Escape room online: quante opportunità
+
+Avventura? Investigazione? Horror? Non hai ancora scoperto quale sia il tuo genere? Non c’è alcun problema. Sul nostro sito trovi moltissime opportunità differenti. Tutto ciò che dovrai fare sarà lasciarti ispirare e decidere di immergerti a fondo nell’esperienza. Da Clue a Saw, da Hacker Hunt alla Scuola di Maghi, passando per le cene con delitto: tutto è pensato per farti vivere un’avventura unica, divertente e coinvolgente. Per te e per gli amici con cui deciderai di condividerla.
+
+E se per caso ti venisse voglia di uscire di casa non dimenticare che ti aspettiamo nelle nostre sedi di [Milano](https://www.escapersmilano.it/), [Roma](https://www.lacasadelmale.it/) e [Udine](https://www.noexitroom.com/)!
+
+## Team building per aziende, una vera risorsa
+
+URL: https://escaperoomacasatua.it/2022/04/03/team-building/
+Data: 2022-04-03
+
+Capacità di lavorare in gruppo, problem solving e abilità comunicative. Sono queste alcune delle *skill* principali che si cercano in ogni lavoratore. Proporre delle esperienze di team building è un ottimo modo per svilupparle ed offrire ai propri dipendenti – e all’azienda – una seria occasione di crescita.
+
+### Di che cosa si tratta
+
+Costruzione del gruppo. Mai traduzione fu più azzeccata. Le esperieze di team building sono studiate per mettere i partecipanti nelle condizione di lavorare insieme. I giocatori dovranno confrontarsi per risolvere, collaborando, un problema comune. Possono essere giochi di ruolo, avventure all’aria aperta oppure [escape games](/). Le possibilità sono molte, tutte molto coinvolgenti.
+
+Ma perchè scegliere di farlo?
+
+### I vantaggi del team building
+
+In primo luogo, la proposta di un’iniziativa di questo tipo da parte dell’azienda dimostra una certa cura nei confronti dei propri dipendenti. A chi di noi non farebbe piacere?
+
+In secondo luogo, le attività di team building stimolano la creazione di un vero e proprio spirito di aggregazione, che contribuisce a sviluppare un clima positivo e propositivo all’interno del gruppo dei dipendenti.
+
+Inoltre, esperienze come queste sono in grado di migliorare le *communication skills* di chi vi prende parte. Il lavoro in gruppo, infatti, richiede per sua natura un buon grado di comunicazione.
+
+
+### Le nostre proposte
+
+[Qui](https://noexit-teambuilding.it/) potrai trovare alcune delle nostre proposte per organizzare l’esperienza di team building più adatta alla tua azienda. Ci sono [avventure disponibili online](https://noexit-teambuilding.it/experiences/online/), con la presenza di un membro del nostro staff a guidare le operazioni. In alternativa proponiamo [esperienze dal vivo](https://noexit-teambuilding.it/experiences/dal-vivo/), con tematiche differenti, a secondo delle tue necessità e dei tuoi gusti.
+
+Vuoi provare a far confrontare i tuoi dipendenti con il Professore della Casa di Carta? Oppure preferisci metterli alla prova con un invito alla festa di Gatsby? Queste e molte altre sono le opportunità che abbiamo strutturato e pensato per il benessere tuo, della tua azienda e dei tuoi dipendenti.
